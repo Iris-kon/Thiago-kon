@@ -1,8 +1,7 @@
-## Ola! Eu sou o Thiago Oliveira 
+## Hi! I`m Thiago Oliveira 
 
-- :briefcase: Hoje trabalho como full stack
-- :seedling:Estudando ReactJs, Unity
-- 💬 <a href="https://www.efset.org/cert/CPFfaB" target="_blank">Inglês - Avançado</a>
+- :briefcase: I work as a Full Stack (React/Node)Developer
+- 💬 <a href="https://www.efset.org/cert/CPFfaB" target="_blank">English - Proficient C2 - EFset</a>
 ##
 <div align="center">
 <a href="https://github.com/Thiago-kon">
@@ -16,10 +15,14 @@
   <img alt="Thiago-HTML" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
   <img alt="Thiago-css" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
   <img alt="Thiago-sass" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-  <img alt="Thiago-angular" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
   <img alt="Thiago-reactJs" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="Thiago-NextJs" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
   <img alt="Thiago-nodeJs" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
-  <img alt="thiago-gif" align="right" height="120" width="120" src="https://www.criarbanner.com.br/criargifs/a/c9857f934887ddc2c035ffca40ba3bb5.gif"/>
+  <img alt="Thiago-nestJs" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  <img alt="Thiago-jest" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img alt="Thiago-Postgres" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img alt="Thiago-mongo" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img alt="thiago-gif" align="right" height="120" width="120" src="https://i.ibb.co/NnqF3c0/c9857f934887ddc2c035ffca40ba3bb5.gif"/>
 </div>
 
 ##
