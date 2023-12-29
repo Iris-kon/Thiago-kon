@@ -1,4 +1,4 @@
-## Hi! I`m Thiago Oliveira 
+## Hi! I`m Íris Oliveira 
 
 - :briefcase: I work as a Full Stack (React/Node)Developer
 - 💬 <a href="https://www.efset.org/cert/CPFfaB" target="_blank">English - Proficient C2 - EFset</a>
